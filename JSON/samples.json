@@ -1,19 +1,19 @@
 [
   {
     "name": "Chicken Pot Pie",
-    "file": "samples/chicken_pot_pie.mp3chicken_pot_pie.mp3",
+    "file": "samples/chicken_pot_pie.mp3",
     "bpm": "120",
     "loop": "2m"
   },
   {
     "name": "Mrs. Grossman",
-    "file": "samples/mrs_grossman.mp3mrs_grossman.mp3",
+    "file": "samples/mrs_grossman.mp3",
     "bpm": "120",
     "loop": "2m"
   },
   {
     "name": "Wrong Door",
-    "file": "samples/wrong_door.mp3wrong_door.mp3",
+    "file": "samples/wrong_door.mp3",
     "bpm": "120",
     "loop": "2m"
   }

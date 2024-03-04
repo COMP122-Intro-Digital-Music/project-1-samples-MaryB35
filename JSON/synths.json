@@ -18,12 +18,12 @@
         ]
       },
       "envelope": {
-        "attack": "1.2",
+        "attack": "1.1",
         "attackCurve": "exponential",
         "decay": "0.9",
         "decayCurve": "linear",
-        "sustain": "0.7",
-        "release": "0.8",
+        "sustain": "0.4",
+        "release": "1",
         "releaseCurve": "ripple"
       }
     }

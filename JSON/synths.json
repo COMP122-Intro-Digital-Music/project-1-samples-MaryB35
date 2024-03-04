@@ -23,7 +23,7 @@
         "decay": "0.9",
         "decayCurve": "linear",
         "sustain": "0.4",
-        "release": "1",
+        "release": "0.7",
         "releaseCurve": "ripple"
       }
     }

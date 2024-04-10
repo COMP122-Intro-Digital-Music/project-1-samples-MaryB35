@@ -1,1 +1,178 @@
-[ ]
+[
+  {
+    "name": "Sequence 0",
+    "loop": "2m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "Bb3",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:2.0",
+        "pitch": "D4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "C4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:2.0",
+        "pitch": "Eb4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "C#4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:2.0",
+        "pitch": "Eb4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "C4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:2.0",
+        "pitch": "Eb4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:2.0",
+        "pitch": "Bb3",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "C4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "F4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:2.0",
+        "pitch": "Bb4",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:3.0",
+        "pitch": "G4",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "1:3:0.0",
+        "pitch": "G4",
+        "dur": "16n.",
+        "vel": "1"
+      },
+      {
+        "time": "1:3:0.0",
+        "pitch": "D#4",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "1:3:0.0",
+        "pitch": "Bb3",
+        "dur": "16n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Sequence 1",
+    "loop": "2m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "Bb3",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "D4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "Eb4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "D4",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:1.0",
+        "pitch": "C4",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:2.0",
+        "pitch": "Bb3",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "G3",
+        "dur": "4n",
+        "vel": "0.5"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "A3",
+        "dur": "4n",
+        "vel": "0.5"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "Bb3",
+        "dur": "4n",
+        "vel": "0.5"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "Bb3",
+        "dur": "16n",
+        "vel": "0.5"
+      }
+    ]
+  }
+]
